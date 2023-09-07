@@ -6,4 +6,4 @@ This repository contains a Colaboratory Notebook, with the solution of a problem
 
 ![image](https://github.com/nenomg/Simulated-Annealing/assets/105873794/da66fd7d-c1a4-48c7-bbaa-347f80d80b82)
 
-Just download the SA.pynp file and add it to your folder for colaboratory notebooks in google drive.
+Just download the SA.ipynb file and add it to your folder for colaboratory notebooks in google drive.
